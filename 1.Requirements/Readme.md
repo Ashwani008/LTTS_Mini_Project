@@ -60,7 +60,16 @@ Can be used in Home Automation, Offices,etc.
 
 The system opens up by greeting you and ask for your command, and then take your query to perform the activity which you want to perform and gives you the desired output, and if it is not done by the system it will say a sorry message. And again asks for your command until you didn't want to perform tasks.
 
+## Detailed Requirements
 
+### High Level Requirements
+|      ID          |Description                          |Status                         |
+|----------------|-------------------------------|-----------------------------|
+|HR_01|Speech Recognition|Implemented|
+|HR_02|Voice to String Conversion|Implemented|
+|HR_03|Find what tasks to Perform|Implemented|
+|HR_04|Execute Commands|Implemented|
+|HR_05|Own Interface|Future|
 
 
 
