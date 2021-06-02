@@ -34,6 +34,10 @@ The various features of the AI Voice Assistant are :
 ![](decision_model.png)
 
 
+## SWOT ANALYSIS
+
+![](swot.png)
+
 
 
 
