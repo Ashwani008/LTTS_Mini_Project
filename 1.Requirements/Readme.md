@@ -15,7 +15,7 @@ Our voice assistant will able to do the followings things-
 ## Cost and Features
 
 ### Cost
-It is a prototype version and it uses open source software so it will be of free cof cost until the stable version is not made.
+It is a prototype version and it uses open source software so it will be free of cost until the stable version is not made.
 
 ### Features
 The various features of the AI Voice Assistant are :
