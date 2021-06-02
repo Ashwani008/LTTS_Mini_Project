@@ -38,6 +38,31 @@ The various features of the AI Voice Assistant are :
 
 ![](swot.png)
 
+# 4W's and 1'H
+
+## Who:
+
+The system is helping hand for us and make our daily life activity easier and faster.
+
+## What:
+
+ Does Wikipedia searches without opening web browsers, and performs many other daily tasks like playing music with the help of a single voice command, and also send emails.
+
+## When:
+
+When people wants to do their task by saying a single command without typing a single word 
+
+## Where:
+
+Can be used in Home Automation, Offices,etc.
+
+## How:
+
+The system opens up by greeting you and ask for your command, and then take your query to perform the activity which you want to perform and gives you the desired output, and if it is not done by the system it will say a sorry message. And again asks for your command until you didn't want to perform tasks.
+
+
+
+
 
 
 
