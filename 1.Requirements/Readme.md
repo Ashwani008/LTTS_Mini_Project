@@ -30,7 +30,7 @@ The various features of the AI Voice Assistant are :
 
 ## Defining the System
 
-![](decision_model.png)
+![](desicion_model.png)
 
 
 
