@@ -5,7 +5,7 @@
 ## Behavior Diagrams
 
 ### High Level Behavioral Diagram
-![High Level Use Case Diagram](https://github.com/Ashwani008/LTTS_Mini_Project/blob/main/2.Architecture/Behavioural%20Diagram/High%20Level%20Behavioral%20Diagram.png)
+![High Level Use Case Diagram](https://github.com/Ashwani008/LTTS_Mini_Project/blob/main/2.Architecture/Behavioural%20Diagram/Untitled%20Workspace%20(1).png)
 
 
 ### Low Level Behavioral Diagram
