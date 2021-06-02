@@ -26,7 +26,11 @@ The various features of the AI Voice Assistant are :
 4.Play Music\
 5.Open Application\
 6.time\
-7.Send Email\
+7.Send Email
+
+## Defining the System
+
+
 
 
 
