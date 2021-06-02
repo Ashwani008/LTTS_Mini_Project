@@ -20,13 +20,13 @@ It is a prototype version and it uses open source software so it will be of free
 ### Features
 The various features of the AI Voice Assistant are :
 
-1.Wish me
-2.Take Command
-3.Search Websites
-4.Play Music
-5.Open Application
-6.time
-7.Send Email
+1.Wish me\
+2.Take Command\
+3.Search Websites\
+4.Play Music\
+5.Open Application\
+6.time\
+7.Send Email\
 
 
 
