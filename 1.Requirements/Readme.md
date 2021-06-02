@@ -75,19 +75,19 @@ The system opens up by greeting you and ask for your command, and then take your
 ### Low Level Requirements
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Microphone|HR_01|Implemented|
-|LR_02|Speech Recogition Tool|HR_01|Implemented|
-|LR_03|Understand the Language|HR_01|Implemented|
-|LR_04|Language Identifiers|HR_02|Implemented|
-|LR_05|Speech to Text Conversion Tool|HR_02|Implemented|
-|LR_06|Error Correction Techniques|HR_02|Implemented|
-|LR_07|Identify the Meaning of text|HR_03|Implemented|
-|LR_08|Searching Techniques|HR_03|Implemented|
-|LR_09|Check Resources|HR_03|Implemented|
+|LR_01|Microphone.|HR_01|Implemented|
+|LR_02|Speech Recognition Tool.|HR_01|Implemented|
+|LR_03|Language Identifier.|HR_01|Implemented|
+|LR_04|Display the text.|HR_02|Implemented|
+|LR_05|Speech to Text Conversion Tool.|HR_02|Implemented|
+|LR_06|Error Correction Techniques.|HR_02|Implemented|
+|LR_07|Identify the Meaning of text.|HR_03|Implemented|
+|LR_08|Searching Techniques.|HR_03|Implemented|
+|LR_09|Check Resources.|HR_03|Implemented|
 |LR_10|Identify tasks can be done or not.|HR_03|Implemented|
-|LR_11|Utilize Resources|HR_04|Implemented|
-|LR_12|Web Search Tools|HR_04|Implemented|
-|LR_13|Mail Authentication Techniques|HR_04|Implemented|
+|LR_11|Speakers.|HR_04|Implemented|
+|LR_12|Web Search Tools.|HR_04|Implemented|
+|LR_13|Mail Authentication Techniques.|HR_04|Implemented|
 |LR_14|Permission Required for Media Access.|HR_04|Implemented|
 |LR_15|User Interface Design.|HR_05|Future|
 |LR_16|Check Action History.|HR_05|Future|
