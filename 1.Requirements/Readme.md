@@ -12,6 +12,24 @@ Our voice assistant will able to do the followings things-
 * It is capable of opening websites like Google, Youtube, etc., in a web browser.
 * It is capable of opening your code editor or IDE with a single voice command.
 
+## Cost and Features
+
+### Cost
+It is a prototype version and it uses open source software so it will be of free cof cost until the stable version is not made.
+
+### Features
+The various features of the AI Voice Assistant are :
+
+1.Wish me
+2.Take Command
+3.Search Websites
+4.Play Music
+5.Open Application
+6.time
+7.Send Email
+
+
+
 
 
 
