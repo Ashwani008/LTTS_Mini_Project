@@ -14,7 +14,7 @@
 ## Structural Diagram
 
 ### High Level Structural Diagram
-
+![High Level Structural Diagram](https://github.com/Ashwani008/LTTS_Mini_Project/blob/main/2.Architecture/Structure%20Diagram/High%20Level%20Structural%20Diagram.png)
 
 
 ### Low Level Structural Diagram
